@@ -1,0 +1,182 @@
+@font-face { 
+font-family: "Leipzig Fraktur Normal"; 
+src: url("/games/ttt/loading/style/fonts/Leipzig Fraktur Normal.ttf");
+}
+
+@font-face {
+font-family: "Atlantic Bentley"; 
+src: url("/games/ttt/loading/style/fonts/Atlantic Bentley.ttf"); 
+}
+
+@font-face {
+font-family: "Roboto Thin"; 
+src: url("/games/ttt/loading/style/fonts/Roboto-Thin.ttf"); 
+}
+
+@font-face {
+font-family: "Roboto Light"; 
+src: url("/games/ttt/loading/style/fonts/Roboto-Light.ttf"); 
+}
+
+@font-face {
+font-family: "Roboto Black"; 
+src: url("/games/ttt/loading/style/fonts/Roboto-Black.ttf"); 
+}
+
+body.loadinggif{
+	background: url("/games/ttt/loading/images/pepe03.gif");
+}
+
+body.standard{
+	background: url("/games/ttt/loading/images/ttt_background03.jpg");
+	background-size: 100%;
+}
+
+table{
+	/*position:fixed;
+    right:0;
+    top: 0;
+		margin: 5 5 0 0;*/
+	width: 100%;
+	font-family: "Arial";
+	white-space: nowrap;
+	border-collapse:collapse;
+
+}
+
+td.head{
+	color: white;
+	width: 10px;
+	height: 15px;
+	text-align: center;
+	overflow: hidden;   
+	font-weight: bold;
+	background-color: rgba(0,0,0,0.6);
+}
+
+td.desc{
+	width: 45px;
+	padding: 2 0 2 0;
+	background-color: rgba(0,0,0,0.6);
+	font-size:9px;
+	border-bottom: 1px solid white;
+}
+
+tr.black {
+	background-color: rgba(0,0,0,0.6);
+}
+
+tr.grey {
+	background-color: rgba(75,75,75,0.6);
+}
+
+td{
+	font-size: 15px;
+	color: white;
+	width: 45px;
+	height: 15px;
+	padding-left:5px;
+	padding-right:5px;
+	text-align: center;
+	white-space: nowrap;
+}
+
+td.first{
+	color: #ffd700;
+	width: 45px;
+	height: 15px;
+	text-align: center;
+	font-weight: bold;
+}
+
+td.second{
+	color: #c0c0c0;
+	width: 45px;
+	height: 15px;
+	text-align: center;
+	font-weight: bold;
+}
+
+td.third{
+	color: #cd7f32;
+	width: 45px;
+	height: 15px;
+	text-align: center;
+	font-weight: bold;
+}
+
+td.else{
+	color: white;
+	width: 45px;
+	height: 15px;
+	text-align: center; 
+	font-weight: bold;
+}
+
+td.name{
+	width: 45px;
+	padding: 0 0 0 0;
+}
+
+div.greeting {
+	background-color: rgba(75,75,75,0.6);
+	display: inline-block;
+	width: max-content;
+	top:0;
+}
+
+div.greetingstats {
+	margin: 0 0 0 0;
+	padding: 5 5 5 5;
+	background-color: rgba(75,75,75,0.6);
+	display: inline-block;
+	width: max-content;
+}
+
+p.greeting{
+	font-family:"Atlantic Bentley";
+	font-size:300%;
+	color:white;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	width: max-content;
+	height: max-content;
+}
+
+div.greeting p.map1{
+	font-family:"Roboto Light";
+	font-size:120%;
+	color:white;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	width: max-content;
+}
+
+div.greeting p.map2{
+	font-family:"Roboto Thin";
+	font-size:120%;
+	color:white;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	width: max-content;
+}
+
+li{
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	font-family:"Roboto Thin";
+	font-size:110%;
+	color: white;
+}
+
+img.avatar{
+	padding: 0 0 0 0;
+	border-radius: 50%;
+	width: auto;
+}
+
+.background-image{
+	background-repeat: repeat;
+	float: left;
+	margin: 0;
+}

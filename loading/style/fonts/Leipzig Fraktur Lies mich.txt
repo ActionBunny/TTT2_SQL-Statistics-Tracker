@@ -1,0 +1,39 @@
+Vor einigen Jahren habe ich schon einmal eine Frakturschrift für den PC entworfen (oder besser gesagt nach alten Vorlagen nachempfunden).
+Diese Schrift geistert unter dem Namen "Schwaben Alt" durch unzählige Font-Seiten auf dem Internet und hat Einzug in viele Schriftensammlungen gefunden. Schon damals suchte ich nach Schriften, die an die speziellen Regeln des Fraktursatzes angepasst waren. Fand jedoch zumeist nur "Pseudo-Fraktur-Schriften" ohne die Frakturspezifischen "Spezialbuchstaben" und Ligaturen, die zugegebenerweise angelsächsischen Lesern das Leben schwer machen, wenn man die Regeln erst einmal erlernt hat, jedoch das Lesen erheblich erleichtern.
+
+Schaben Alt (nach "Alte Schwabacher") war jedoch hauptsächlich eine sog. Auszeichnungsschrift - also nichts zum Text schreiben. So suchte ich also weiter nach den Brotschriften der Buchdruckkunst um 1900. Leider fand ich hier entweder nur kommerzielle Lösungen, die zusätzlich auch spezielle Programme erfordern, die die Verwendung von Ligaturen z.B. managen - das war mir zu kostspielig.
+
+So nahm ich mir einige 100 Jahre alte Bücher - Fotografierte einige Seiten mit der Makro-Funktion einer Digitalkamera ab (Der Scanner löst die kleine Schrift nicht genügend auf) und erzeugte daraus die Schrift "Leipzig Fraktur"
+
+Der Name "Leipzig Fraktur" war eigentlich ein Selbstgänger, da fast alle Deutschen Bücher dieser Zeit in Leipzig gedruckt wurden und diese Schrift eben auf dem Letternmaterial Leipziger Druckereien basiert. Wer mir den Original-Namen dieser Schrift nennen kann - ich lerne gern hinzu!
+
+Der Font "Leipzig Fraktur" weist einige Besonderheiten auf, welche für den Regelgerechten Fraktursatz erforderlich sind:
+Es fiel mir auf, daß in den alten Büchern niemals Fremdworte, für deren Satz Buchsteben wie á, à, é, è, ú, ù erforderlich sind in Fraktur gesetzt wurden. Also entschluß ich mich, diese Buchstaben durch die Ligaturen (Zusammenschmelzungen von 2 Buchstaben zu einer Letter) zu ersetzen. Den kleinen Buchstaben s ersetzte ich durch seine lange Form, welche innerhalb des Wortes verwendet wird. Für das sog. runde s (welches dem kleinen s in Grotesk oder Antiqua-Schriften ähnelt) verwendete ich das $-Zeichen (Ebenso erstellte ich auch kein Fraktur-Euro-Zeichen, da auch dies keinen Sinn macht und man auch hier besser dieses Zeichen aus einer anderen (vornähmlich Antiqua-)Schrift einfügen sollte, so man überhaupt Preislisten in Fraktur erstellen will. :-)
+Für heutige Leser vielleicht etwas schwer zu erkennen, dafür aber im Gegensatz zu anderen "Fraktur"-Schriften eben authentisch ist das kleine k, welches ich in dieser Schrift verwendete.
+Ein etwas merkwürdiger "Buchstabe" der aus dem Heutigen gebrauch verschwunden ist, habe ich an stelle des Doppelkreuzes eingefügt:
+Die Abkürzung für "et cetera" - also das Fraktur-äquivalent für usw.
+
+Hier die komplette "Ersetzungs-Tabelle"
+$ = rund-s (fur Wortende oder bei zusammengesetzten Worten am Ende eines Teilworts: z.B. Hausflur: Haus mit rund-s und Flur mit fl-Ligatur
+\  = langer gerader Gedankenstrich, da der Bindestrich in Fraktur ein schräggestelltes Gleichheitszeichen ist.
+# = et-cetera-Zeichen
+à = ch-Ligatur - auch für sch
+á = ck-Ligatur
+é = fi-Ligatur
+è = ff-Ligatur - macht Worte wie Sauerstoffflasche in Fraktur leichter lesbar! S  a  u  e  r  st  o  ff  fl  a  s  ch  e  in diesem Wort werden 4 Ligaturen verwendet.
+ò = fl - Ligator - das fl von der Flasche
+í = ft-Ligatur - z.B. in Luft - aber nicht in auftauen
+ß = ss-Ligatur - Ja "ss" nicht "sz" !!! - und zwar lang-s-rund-s - also vergesst die "Linksschreibreform" bei Worten wie Nassschleifmaschine...
+ù = st-Ligatur - z.B. in Austernpilz, nicht jedoch in Haustür.
+ú = tz-Ligatur - z.B. in Satzbau, nicht jedoch in Notzaun. (Wurde merkwürdigerweise allerdings auch in Worten verwandt, die eigendlich mit ts geschrieben werden)
+
+Die beiden Schriftschnitte sind Freeware - jedoch freue ich mich über jede Nachricht, wie diese Schrift ankommt und verwendet wird.
+Die Fonts dürfen zusammen mit dieser Textdatei beliebig verwendet und weitergegeben werden. Modifikationen an diesen Dateien sind ohne meine Einwilligung nicht gestattet. Gegen das Einstellen in Download-Sites habe ich ebenfalls nichts, solange für diese Schriften keine Gebühr außer einer eventuellen allgemeinen Zugangsgebühr erhoben wird. 
+Bei Verwendung der Schriften für ein kommerzielles Softwareprodukt incl. einer Schriftensammlung auf Datenträger (Disk, CD, DVD etc.) erwarte ich ebenfalls schriftliche Benachrichtigung.
+
+P. Wiegel
+wiegel@aepnet.de
+
+----------------------------------------
+ACHTUNG, die 2 Schnitte mit "LF" im Namen sind für die Verwendung mit dem Programm LigaFraktur gedacht. Sie enthalten einige Glyphen nicht, dafür mehr Ligaturen. auch steht hier das runde s an der bei anderen Fonts üblichen Stelle.
+
