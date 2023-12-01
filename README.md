@@ -1,5 +1,5 @@
 # TTT2_SQL-Statistics-Tracker
-Repository for my addon [TTT2 SQL Statistics Tracker] (https://steamcommunity.com/sharedfiles/filedetails/?id=3100649542)
+Repository for my addon [TTT2 SQL Statistics Tracker](https://steamcommunity.com/sharedfiles/filedetails/?id=3100649542)
 
 TTT feels short lived? You can't compare to your mates? Hold on. This addon creates SQL-tables and fills them with events like kills, round wins, orders and so on. Perfect way to create a scoreboard on your loadingscreen.
 If you are educated in SQL, PHP, HTML you can set up very neat scoreboards. If not, I got a ready to use template for you.
